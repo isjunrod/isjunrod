@@ -9,7 +9,7 @@
 
 # 🖤 Junior Rodriguez
 
-**Full Stack Developer** | JavaScript · TypeScript · React · Next.js · Node.js · PHP 
+**Full Stack Developer** | JavaScript · TypeScript · React · Next.js · Node.js · PHP · Laravel
 
 ---
 
