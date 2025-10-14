@@ -47,6 +47,18 @@ No solo desarrollo — diseño soluciones que impactan el negocio y mejoran la v
 
 ---
 
+<h2 >Profile Views</h2>
+
+<p>
+  Counting of visitors to this page in this section started from Septempber 19, 2025 👀
+</p>
+
+<p align="left">
+  <img src="https://count.getloli.com/@santa512?name=santa512&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+</p>
+
+<br clear="both">
+
 <a href="#">
   <img 
     alt="Finish" 
