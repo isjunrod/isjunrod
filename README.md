@@ -13,13 +13,6 @@
 
 ---
 
-## 🚀 Sobre mí
-Construyo productos de software que resuelven problemas reales y escalan con fiabilidad.  
-Me enfoco en entregar sistemas sólidos, automatizados y fáciles de mantener.  
-No solo desarrollo — diseño soluciones que impactan el negocio y mejoran la vida de los usuarios.  
-
----
-
 ## 🛠️ Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -31,14 +24,6 @@ No solo desarrollo — diseño soluciones que impactan el negocio y mejoran la v
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📌 Lo que construyo
-- Sistemas de **facturación electrónica** con 85% menos errores en producción  
-- **Bots y automatizaciones** que liberan +40h/mes a equipos  
-- **Migraciones críticas** (LoopBack 3 → 4, Next.js 13 → 15) que mejoran escalabilidad  
-- **Herramientas de personalización**: motores de reportes, editores PDF avanzados  
 
 ---
 
