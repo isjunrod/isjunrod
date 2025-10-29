@@ -7,8 +7,6 @@
   />
 </a><br>
 
-# 🖤 Junior Rodriguez
-
 ## 🛠️ Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -23,7 +21,7 @@
 
 ---
 
-## 🌐 Encuéntrame en
+## 🌐 Find me on
 - 📧 junrodpro@gmail.com  
 
 ---
