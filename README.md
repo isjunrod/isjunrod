@@ -9,10 +9,6 @@
 
 # 🖤 Junior Rodriguez
 
-**Full Stack Developer** | JavaScript · TypeScript · React · Next.js · Node.js · PHP 
-
----
-
 ## 🛠️ Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
