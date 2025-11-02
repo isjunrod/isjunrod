@@ -19,12 +19,8 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
 ## 🌐 Find me on
-- 📧 junrodpro@gmail.com  
-
----
+- 📧 junrodpro@gmail.com
 
 <h2 >Profile Views</h2>
 
